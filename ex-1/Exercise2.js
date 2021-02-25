@@ -9,5 +9,5 @@ if (input == "PLAY"){
     
 
     var randonNum = Math.floor(Math.random() * 7) + 1 ;
-    window.alert("In the future, you will get married to "+partnersName[randonNum] +" and will have "+ numChild[randonNum]+"children."+ " You will also be a successful "+JobTitle[randonNum]+" and will be living in "+ location[randonNum]+".");
+    window.alert("In the future, you will get married to "+partnersName[randonNum] +" and will have "+ numChild[randonNum]+" children."+ " You will also be a successful "+JobTitle[randonNum]+" and will be living in "+ location[randonNum]+".");
 }
